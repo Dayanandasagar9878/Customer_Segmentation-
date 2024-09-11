@@ -32,7 +32,7 @@ Libraries Used: Pandas, NumPy, Scikit-learn, Seaborn
 
 - Customer_Segmentation.ipynb: Jupyter notebook with Python code for clustering and analysis.
 - Mall_Customers.csv: The dataset used for segmentation.
-- Cluster_Visualization.png: Image showing the customer segments visualized in 2D space.
+- Customer_Segmentation.png: Image showing the customer segments visualized in 2D space.
   
 ## Future Work
 
